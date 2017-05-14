@@ -1,30 +1,26 @@
-package com.example.przemek.beeryouwantv2;
+package com.example.mati.beeryouwant;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.os.SystemClock;
 
-import com.example.przemek.beeryouwantv2.data.ALevelDao;
-import com.example.przemek.beeryouwantv2.data.BMLevelDao;
-import com.example.przemek.beeryouwantv2.data.BeerDao;
-import com.example.przemek.beeryouwantv2.data.CountryDao;
-import com.example.przemek.beeryouwantv2.data.ProvinceDao;
-import com.example.przemek.beeryouwantv2.data.StyleDao;
-import com.example.przemek.beeryouwantv2.data.WorksDao;
-import com.example.przemek.beeryouwantv2.model.ALevel;
-import com.example.przemek.beeryouwantv2.model.BMLevel;
-import com.example.przemek.beeryouwantv2.model.Beer;
-import com.example.przemek.beeryouwantv2.model.Country;
-import com.example.przemek.beeryouwantv2.model.Province;
-import com.example.przemek.beeryouwantv2.model.Style;
-import com.example.przemek.beeryouwantv2.model.Works;
+import com.example.mati.beeryouwant.data.ALevelDao;
+import com.example.mati.beeryouwant.data.BMLevelDao;
+import com.example.mati.beeryouwant.data.BeerDao;
+import com.example.mati.beeryouwant.data.CountryDao;
+import com.example.mati.beeryouwant.data.ProvinceDao;
+import com.example.mati.beeryouwant.data.StyleDao;
+import com.example.mati.beeryouwant.data.WorksDao;
+import com.example.mati.beeryouwant.model.ALevel;
+import com.example.mati.beeryouwant.model.BMLevel;
+import com.example.mati.beeryouwant.model.Beer;
+import com.example.mati.beeryouwant.model.Country;
+import com.example.mati.beeryouwant.model.Province;
+import com.example.mati.beeryouwant.model.Style;
+import com.example.mati.beeryouwant.model.Works;
 
 import java.util.List;
-
-/**
- * Created by Przemek on 04.12.2016.
- */
 
 public class DataManagerImplementation implements DataManager {
     private Context context;

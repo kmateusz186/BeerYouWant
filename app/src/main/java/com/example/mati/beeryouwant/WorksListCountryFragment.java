@@ -1,4 +1,4 @@
-package com.example.przemek.beeryouwantv2;
+package com.example.mati.beeryouwant;
 
 
 import android.app.ListFragment;
@@ -12,7 +12,7 @@ import android.widget.ArrayAdapter;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.przemek.beeryouwantv2.model.Country;
+import com.example.mati.beeryouwant.model.Country;
 
 import java.util.ArrayList;
 

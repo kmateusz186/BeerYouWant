@@ -1,20 +1,17 @@
-package com.example.przemek.beeryouwantv2;
+package com.example.mati.beeryouwant;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import com.example.przemek.beeryouwantv2.Table.ALevelTable;
-import com.example.przemek.beeryouwantv2.Table.BMLevelTable;
-import com.example.przemek.beeryouwantv2.Table.BeerTable;
-import com.example.przemek.beeryouwantv2.Table.CountryTable;
-import com.example.przemek.beeryouwantv2.Table.ProvinceTable;
-import com.example.przemek.beeryouwantv2.Table.StyleTable;
-import com.example.przemek.beeryouwantv2.Table.WorksTable;
+import com.example.mati.beeryouwant.Table.ALevelTable;
+import com.example.mati.beeryouwant.Table.BMLevelTable;
+import com.example.mati.beeryouwant.Table.BeerTable;
+import com.example.mati.beeryouwant.Table.CountryTable;
+import com.example.mati.beeryouwant.Table.ProvinceTable;
+import com.example.mati.beeryouwant.Table.StyleTable;
+import com.example.mati.beeryouwant.Table.WorksTable;
 
-/**
- * Created by Przemek on 05.12.2016.
- */
 
 public class OpenHelper extends SQLiteOpenHelper{
     private static OpenHelper instance;

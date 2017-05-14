@@ -1,4 +1,4 @@
-package com.example.przemek.beeryouwantv2.data;
+package com.example.mati.beeryouwant.data;
 
 import android.content.ContentValues;
 import android.database.Cursor;
@@ -6,10 +6,10 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteStatement;
 import android.provider.BaseColumns;
 
-import com.example.przemek.beeryouwantv2.Table.BeerTable;
-import com.example.przemek.beeryouwantv2.Table.WorksTable;
-import com.example.przemek.beeryouwantv2.model.Beer;
-import com.example.przemek.beeryouwantv2.model.Works;
+import com.example.mati.beeryouwant.Table.BeerTable;
+import com.example.mati.beeryouwant.Table.WorksTable;
+import com.example.mati.beeryouwant.model.Beer;
+import com.example.mati.beeryouwant.model.Works;
 
 import java.util.ArrayList;
 import java.util.List;

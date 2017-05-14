@@ -1,4 +1,4 @@
-package com.example.przemek.beeryouwantv2;
+package com.example.mati.beeryouwant;
 
 import android.app.Fragment;
 import android.app.FragmentManager;
@@ -26,7 +26,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
 
-import com.example.przemek.beeryouwantv2.TimeOfAppRunningService.LocalBinder;
+import com.example.mati.beeryouwant.TimeOfAppRunningService.LocalBinder;
 
 
 public class MainActivity extends AppCompatActivity {

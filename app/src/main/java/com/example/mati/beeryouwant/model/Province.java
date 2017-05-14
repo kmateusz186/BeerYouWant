@@ -1,11 +1,7 @@
-package com.example.przemek.beeryouwantv2.model;
+package com.example.mati.beeryouwant.model;
 
 import java.util.ArrayList;
 import java.util.List;
-
-/**
- * Created by Przemek on 02.12.2016.
- */
 
 public class Province {
     private int idProvince;

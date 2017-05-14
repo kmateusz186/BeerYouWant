@@ -1,4 +1,4 @@
-package com.example.przemek.beeryouwantv2;
+package com.example.mati.beeryouwant;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -21,9 +21,9 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.przemek.beeryouwantv2.model.Beer;
-import com.example.przemek.beeryouwantv2.model.Province;
-import com.example.przemek.beeryouwantv2.model.Works;
+import com.example.mati.beeryouwant.model.Beer;
+import com.example.mati.beeryouwant.model.Province;
+import com.example.mati.beeryouwant.model.Works;
 
 import java.util.ArrayList;
 

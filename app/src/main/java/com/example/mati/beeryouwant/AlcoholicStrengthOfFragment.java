@@ -1,4 +1,4 @@
-package com.example.przemek.beeryouwantv2;
+package com.example.mati.beeryouwant;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -12,10 +12,6 @@ import android.widget.RadioGroup;
 import android.widget.TextView;
 import android.widget.Toast;
 
-
-/**
- * Created by Przemek on 11.12.2016.
- */
 
 public class AlcoholicStrengthOfFragment extends Fragment {
 

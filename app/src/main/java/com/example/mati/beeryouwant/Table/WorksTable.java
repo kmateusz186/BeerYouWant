@@ -1,15 +1,12 @@
-package com.example.przemek.beeryouwantv2.Table;
+package com.example.mati.beeryouwant.Table;
 
 import android.content.ContentValues;
 import android.database.sqlite.SQLiteDatabase;
 import android.provider.BaseColumns;
 
-import com.example.przemek.beeryouwantv2.R;
-import com.example.przemek.beeryouwantv2.model.Works;
+import com.example.mati.beeryouwant.R;
+import com.example.mati.beeryouwant.model.Works;
 
-/**
- * Created by Przemek on 04.12.2016.
- */
 
 public class WorksTable {
     public static final String TABLE_NAME = "works";

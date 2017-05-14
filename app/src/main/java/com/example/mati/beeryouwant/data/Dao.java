@@ -1,4 +1,4 @@
-package com.example.przemek.beeryouwantv2.data;
+package com.example.mati.beeryouwant.data;
 
 import java.util.List;
 

@@ -1,14 +1,11 @@
-package com.example.przemek.beeryouwantv2.Table;
+package com.example.mati.beeryouwant.Table;
 
 import android.content.ContentValues;
 import android.database.sqlite.SQLiteDatabase;
 import android.provider.BaseColumns;
 
-import com.example.przemek.beeryouwantv2.model.BMLevel;
+import com.example.mati.beeryouwant.model.BMLevel;
 
-/**
- * Created by Przemek on 04.12.2016.
- */
 
 public class BMLevelTable {
     public static final String TABLE_NAME = "bm_level";

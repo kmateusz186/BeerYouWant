@@ -1,4 +1,4 @@
-package com.example.przemek.beeryouwantv2;
+package com.example.mati.beeryouwant;
 
 import android.app.Notification;
 import android.app.NotificationManager;
@@ -12,9 +12,6 @@ import android.support.annotation.Nullable;
 import java.io.Serializable;
 
 
-/**
- * Created by Przemek on 12.12.2016.
- */
 
 public class TimeOfAlcohol extends Service implements Serializable {
 

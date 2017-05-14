@@ -1,14 +1,11 @@
-package com.example.przemek.beeryouwantv2.Table;
+package com.example.mati.beeryouwant.Table;
 
 import android.content.ContentValues;
 import android.database.sqlite.SQLiteDatabase;
 import android.provider.BaseColumns;
 
-import com.example.przemek.beeryouwantv2.model.ALevel;
+import com.example.mati.beeryouwant.model.ALevel;
 
-/**
- * Created by Przemek on 04.12.2016.
- */
 
 public class ALevelTable {
     public static final String TABLE_NAME = "a_level";

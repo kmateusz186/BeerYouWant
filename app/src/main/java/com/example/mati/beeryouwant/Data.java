@@ -1,10 +1,7 @@
-package com.example.przemek.beeryouwantv2;
+package com.example.mati.beeryouwant;
 
 import android.os.Environment;
 
-/**
- * Created by Przemek on 05.12.2016.
- */
 public class Data {
     private static final String APPLICATION_PACKAGE_NAME = "com.example.przemek.pm_lab06_v3";
 

@@ -1,4 +1,4 @@
-package com.example.przemek.beeryouwantv2;
+package com.example.mati.beeryouwant;
 
 import android.app.Service;
 import android.content.Intent;
@@ -12,10 +12,6 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-
-/**
- * Created by Przemek on 10.12.2016.
- */
 
 public class TimeOfAppRunningService extends Service{
 
